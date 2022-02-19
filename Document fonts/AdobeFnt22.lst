@@ -1,0 +1,271 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmericanTypewriter-Bold
+FamilyName:American Typewriter
+StyleName:Bold
+FullName:American Typewriter Bold
+MenuName:American Typewriter
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\American Typewriter Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81788
+FileModTime:1590583666
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,American Typewriter Bold
+NameArray:0,Mac,4,American Typewriter Bold
+NameArray:0,Win,1,American Typewriter
+NameArray:0,Win,16,American Typewriter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bauhaus93
+FamilyName:Bauhaus 93
+StyleName:Regular
+FullName:Bauhaus 93
+MenuName:Bauhaus 93
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\BAUHS93.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47644
+FileModTime:1595400796
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bauhaus 93
+NameArray:0,Win,1,Bauhaus 93
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BritannicBold
+FamilyName:Britannic Bold
+StyleName:Regular
+FullName:Britannic Bold
+MenuName:Britannic Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\BRITANIC.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40728
+FileModTime:1595400794
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Britannic Bold
+NameArray:0,Win,1,Britannic Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bungee-Regular
+FamilyName:Bungee
+StyleName:Regular
+FullName:Bungee
+MenuName:Bungee
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\Bungee-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:125116
+FileModTime:1465963200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Bungee
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GillSansMT-ExtraCondensedBold
+FamilyName:Gill Sans MT Ext Condensed Bold
+StyleName:Regular
+FullName:Gill Sans MT Ext Condensed Bold
+MenuName:Gill Sans MT Ext Condensed Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\GLSNECB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84668
+FileModTime:1619482258
+WeightClass:400
+WidthClass:2
+AngleClass:0
+NameArray:0,Mac,4,Gill Sans MT Ext Condensed Bold
+NameArray:0,Win,1,Gill Sans MT Ext Condensed Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:KohinoorDevanagari-Semibold
+FamilyName:Kohinoor Devanagari
+StyleName:Semibold
+FullName:Kohinoor Devanagari Semibold
+MenuName:Kohinoor Devanagari
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\KohinoorDevanagari-Semibold-03.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:256168
+FileModTime:1622302116
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kohinoor Devanagari Semibold
+NameArray:0,Win,1,Kohinoor Devanagari
+NameArray:0,Win,16,Kohinoor Devanagari
+NameArray:0,Win,1,		K	9	?	(	B	0 	&	G	5	(	>		0	@
+NameArray:0,Win,16,		K	9	?	(	B	0 	&	G	5	(	>		0	@
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1622300110
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+FullName:Bahnschrift
+MenuName:Bahnschrift
+FamilyPrefix:Bahnschrift
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\bahnschrift.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:371380
+FileModTime:1575709708
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bahnschrift
+NameArray:0,Win,1,Bahnschrift
+NameArray:0,Win,16,Bahnschrift
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Medium
+FamilyName:Franklin Gothic Medium
+StyleName:Regular
+FullName:Franklin Gothic Medium
+MenuName:Franklin Gothic Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\framd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133632
+FileModTime:1575709718
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Franklin Gothic Medium
+NameArray:0,Win,1,Franklin Gothic Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-MediumItalic
+FamilyName:Franklin Gothic Medium
+StyleName:Italic
+FullName:Franklin Gothic Medium Italic
+MenuName:Franklin Gothic Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\framdit.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:148728
+FileModTime:1575709718
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Franklin Gothic Medium Italic
+NameArray:0,Win,1,Franklin Gothic Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OstrichSans-Bold
+FamilyName:Ostrich Sans
+StyleName:Bold
+FullName:Ostrich Sans Bold
+MenuName:Ostrich Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\Document fonts\ostrichsans-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:13252
+FileModTime:1608268140
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Ostrich Sans Bold
+NameArray:0,Mac,4,Ostrich Sans Bold
+NameArray:0,Win,1,Ostrich Sans
+NameArray:0,Win,16,Ostrich Sans
+%EndFont
+
