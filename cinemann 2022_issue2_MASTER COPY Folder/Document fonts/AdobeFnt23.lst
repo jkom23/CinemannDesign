@@ -1,0 +1,151 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bungee-Regular
+FamilyName:Bungee
+StyleName:Regular
+FullName:Bungee
+MenuName:Bungee
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\cinemann 2022_issue2_MASTER COPY Folder\Document fonts\Bungee-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:125116
+FileModTime:1465966800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Bungee
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica 25 UltraLight
+StyleName:Regular
+FullName:Helvetica 25 Ultra Light
+MenuName:Helvetica 25 UltraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\cinemann 2022_issue2_MASTER COPY Folder\Document fonts\HelveticaUltraLt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48256
+FileModTime:1444388400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica 25 Ultra Light
+NameArray:0,Win,1,Helvetica 25 UltraLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\cinemann 2022_issue2_MASTER COPY Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1622303710
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SackersGothicMediumAT
+FamilyName:Sackers Gothic Medium AT
+StyleName:Regular
+FullName:Sackers Gothic Medium AT
+MenuName:Sackers Gothic Medium AT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\cinemann 2022_issue2_MASTER COPY Folder\Document fonts\Sackers Gothic Medium AT.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:14832
+FileModTime:1474116416
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sackers Gothic Medium AT
+NameArray:0,Win,1,Sackers Gothic Medium AT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bahnschrift
+FamilyName:Bahnschrift
+StyleName:Regular
+FullName:Bahnschrift
+MenuName:Bahnschrift
+FamilyPrefix:Bahnschrift
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\cinemann 2022_issue2_MASTER COPY Folder\Document fonts\bahnschrift.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:371380
+FileModTime:1575713308
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bahnschrift
+NameArray:0,Win,1,Bahnschrift
+NameArray:0,Win,16,Bahnschrift
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OstrichSans-Bold
+FamilyName:Ostrich Sans
+StyleName:Bold
+FullName:Ostrich Sans Bold
+MenuName:Ostrich Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\jackk\Downloads\CinemannDesign\cinemann 2022_issue2_MASTER COPY Folder\Document fonts\ostrichsans-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:13252
+FileModTime:1608271740
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Ostrich Sans Bold
+NameArray:0,Mac,4,Ostrich Sans Bold
+NameArray:0,Win,1,Ostrich Sans
+NameArray:0,Win,16,Ostrich Sans
+%EndFont
+
